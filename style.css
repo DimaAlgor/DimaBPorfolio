@@ -1,0 +1,141 @@
+header {
+    background-image: linear-gradient(to right,rgb(55, 178, 255), rgb(215, 226, 255));
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+}
+
+nav a {
+    position: relative;
+    top: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.a {
+    background-image:linear-gradient(to right, white,gray);
+    border-radius: 10px;
+    box-shadow: 5px 5px 0 0 black;
+    text-decoration: none;
+    color: black;
+}
+
+.a:hover { 
+    background-image: linear-gradient(to right, gray, white);
+}
+
+main div {
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    height: 650px;
+    background-image: linear-gradient(to right, rgb(55, 178, 255), rgb(215, 226, 255));
+}
+
+.cat{
+    width: 200px;
+    position: absolute;
+    right: 40%;
+    top: 70px;
+    box-shadow: 10px 10px 0 0 gray;
+    border-radius: 10px;
+}
+
+.om {
+    position: relative;
+    top: 165px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.obomne {
+    position: relative;
+    top: 180px;
+    background-color: #787777;
+    width: 70%;
+    left: 15%;
+    padding: 20px;
+    border-radius: 80px;
+    font-size: 20px;
+}
+
+.obomne:hover {
+    background-color: #ff6868;
+}
+
+.portf {
+    position: relative;
+    top: 200px;
+    left: 35%;
+    font-size: 40px;
+}
+
+.fs {
+    position: relative;
+    top: 240px;
+    background-color: #6D6D6D;
+    font-size: 30px;
+    margin-right: 85%;
+}
+
+.sec {
+    position: relative;
+    top: 205px;
+    left: 260px;
+    background-color: #6D6D6D;
+    font-size: 30px;
+    margin-right: 85%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.th {
+    position: relative;
+    top: 171px;
+    left: 520px;
+    background-color: #6D6D6D;
+    font-size: 30px;
+    margin-right: 85%;
+}
+
+.four {
+    position: relative;
+    left: 780px;
+    top: 135px;
+    background-color: #6D6D6D;
+    font-size: 30px;
+    margin-right: 85%;
+}
+
+.fv {
+    position: relative;
+    top: 105px;
+    left: 1040px;
+    background-color: #6D6D6D;
+    font-size: 30px;
+    margin-right: 85%;
+}
+
+.sx {
+    position: relative;
+    background-color: #6D6D6D;
+    font-size: 30px;
+    margin-right: 85%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    height: 1000px;
+    background-image:linear-gradient(to right, rgb(55, 178, 255), rgb(215, 226, 255));
+}
