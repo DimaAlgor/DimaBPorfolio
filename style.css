@@ -87,7 +87,7 @@ main {
 .sec {
     position: relative;
     top: 205px;
-    left: 260px;
+    left: 450px;
     background-color: #6D6D6D;
     font-size: 30px;
     margin-right: 85%;
@@ -98,7 +98,7 @@ main {
 .th {
     position: relative;
     top: 171px;
-    left: 520px;
+    left: 920px;
     background-color: #6D6D6D;
     font-size: 30px;
     margin-right: 85%;
@@ -106,24 +106,8 @@ main {
 
 .four {
     position: relative;
-    left: 780px;
+    left: 1390px;
     top: 135px;
-    background-color: #6D6D6D;
-    font-size: 30px;
-    margin-right: 85%;
-}
-
-.fv {
-    position: relative;
-    top: 105px;
-    left: 1040px;
-    background-color: #6D6D6D;
-    font-size: 30px;
-    margin-right: 85%;
-}
-
-.sx {
-    position: relative;
     background-color: #6D6D6D;
     font-size: 30px;
     margin-right: 85%;
