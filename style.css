@@ -41,7 +41,7 @@ main {
 .cat{
     width: 200px;
     position: absolute;
-    right: 40%;
+    right: 45%;
     top: 70px;
     box-shadow: 10px 10px 0 0 gray;
     border-radius: 10px;
@@ -72,7 +72,7 @@ main {
 .portf {
     position: relative;
     top: 200px;
-    left: 35%;
+    left: 45%;
     font-size: 40px;
 }
 
