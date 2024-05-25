@@ -87,7 +87,7 @@ main {
 .sec {
     position: relative;
     top: 205px;
-    left: 800px;
+    left: 500px;
     background-color: #6D6D6D;
     font-size: 30px;
     margin-right: 85%;
@@ -98,7 +98,16 @@ main {
 .th {
     position: relative;
     top: 171px;
-    left: 1390px;
+    left: 800px;
+    background-color: #6D6D6D;
+    font-size: 30px;
+    margin-right: 85%;
+}
+
+.fo {
+    position: relative;
+    top: 171px;
+    left: 1000px;
     background-color: #6D6D6D;
     font-size: 30px;
     margin-right: 85%;
